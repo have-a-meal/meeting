@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ad14eacd3c785dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d3f081681b6ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26cb8f7c7f877191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metting/2024-04-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39d4feb016c1dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9176284c4429a79a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f375fc5011bfb14e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dad68ab9ca2871dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef5ed4017f052f34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b0f9e699c88d30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08b9aeefdb8a79a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "307a829b5743c600",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "metting/2024-04-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ce1d4f8f34bf4a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "metting/2024-04-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eec2bba230824df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14f8eb20bf3854f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "metting/2024-04-01.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "f375fc5011bfb14e",
+  "lastOpenFiles": [
+    "metting/2024-03-26.md",
+    "metting/2024-04-01.md",
+    "metting/metting.md",
+    "readme.md",
+    "capstone_2024.md"
+  ]
+}
